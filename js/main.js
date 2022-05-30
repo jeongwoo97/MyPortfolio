@@ -6,7 +6,7 @@
 
 (function($) {
 
-	var $window = $(window),
+	let $window = $(window),
 		$body = $('body'),
 		$header = $('#header'),
 		$footer = $('#footer'),
